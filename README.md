@@ -12,5 +12,5 @@ Repositório criado para documentar meu aprendizado, contem exercícios, desafio
  - [Instalando o Visual Studio e SDK](https://github.com/DvdFalaschi/Aprendendo-Java/blob/a0f1e906b2d72dd2f0f67cffffd36e6c86461081/Certificados/Instalando%20o%20Visual%20Studio%20e%20SDK.pdf)
 
 ### Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)\ln
-[Sintax de Comandos git](https://comandosgit.github.io/)
+* [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+* [Sintax de Comandos git](https://comandosgit.github.io/)
