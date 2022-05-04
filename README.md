@@ -10,6 +10,7 @@ Repositório criado para documentar meu aprendizado, contem exercícios, desafio
  - [Primeiros passos para o desenvolvimento web](https://github.com/DvdFalaschi/Aprendendo-Java/blob/ed0f8264ecd131948c66e3b642b1cd9bbb7e7736/Certificados/Primeiros%20passos%20para%20desenvolvimento%20Web.pdf)
  - [Introdução a criação de websites com HTML5 e CSS3](https://github.com/DvdFalaschi/Aprendendo-Java/blob/ed0f8264ecd131948c66e3b642b1cd9bbb7e7736/Certificados/Introdu%C3%A7%C3%A3o%20a%20cria%C3%A7%C3%A3o%20de%20websites%20com%20HTML5%20e%20CSS3.pdf)
  - [Instalando o Visual Studio e SDK](https://github.com/DvdFalaschi/Aprendendo-Java/blob/a0f1e906b2d72dd2f0f67cffffd36e6c86461081/Certificados/Instalando%20o%20Visual%20Studio%20e%20SDK.pdf)
+ - [IDE Instalação e Configuração (Visual Studio Code)](https://github.com/DvdFalaschi/Aprendendo-Java/blob/a6db2ed040b436aae468763a136e9bf8d5d5a50f/Certificados/IDE%20Instala%C3%A7%C3%A3o%20e%20Configura%C3%A7%C3%A3o%20(Visual%20Studio%20Code).pdf)
 
 ### Links Úteis
 * [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
