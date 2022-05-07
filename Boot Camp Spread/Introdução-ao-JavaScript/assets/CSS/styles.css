@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+}
+body{
+  display: flex;
+  background-color: rgb(204, 204, 221);
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+#counter{
+  display: flex;
+  flex-direction: row;
+}
+
+#counter button{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(80, 80, 214);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 50%; 
+  width: 3.5rem;
+}
+#currentNumber{
+  display: flex;
+  font-size: 24px;
+  padding: 1rem;
+}
+
+#currentNumber negativo{
+color: red;
+}
+
+.texto{
+  margin: 3rem;
+  font-size: 24px;
+}
+
+#erro{
+  font-size: 24px;
+  color: transparent;
+  margin-top: 20px;
+}
