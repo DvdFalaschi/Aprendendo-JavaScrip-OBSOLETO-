@@ -1,21 +1,21 @@
-const BASE_URL = 'https://thatcopy.pw/catapi/rest/';
+const BASE_URL = "https://thatcopy.pw/catapi/rest/";
+const BOTAO = document.getElementById("change-cat");
+const FOTO = document.getElementById("cat");
 
 const getCats = async () => {
-	try {
-		const data = await fetch(BASE_URL);
-		const json = await data.json();
-		return json.webpurl;
-	} catch (e) {
-		console.log(e.message);
-	}
+  try {
+    const data = await fetch(BASE_URL);
+    const json = await data.json();
+    return json.webpurl;
+  } catch (e) {
+    console.log(e.message);
+  }
 };
 
-const loadImg = async () => {
-	const img = document.getElementsByTagName('img')[0];
-	img.src = await getCats();
+const Load_Img = async () => {
+  FOTO.src = await getCats();
 };
 
-loadImg();
+BOTAO.addEventListener("click", Load_Img);
 
-const btn = document.getElementById('change-cat');
-btn.addEventListener('click', loadImg);
+Load_Img();

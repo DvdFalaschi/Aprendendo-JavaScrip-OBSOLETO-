@@ -8,10 +8,11 @@ body {
 	height: 100vh;
 	margin: 0;
 	background-color: beige;
+	
 }
 
 img {
-	max-width: 600px;
+	height: 500px;
 	border-radius: 30px;
 }
 
