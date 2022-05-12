@@ -18,9 +18,8 @@ const lista = [
 ];
 
 function saldo(saldo, arr) {
-  return arr.reduce(function (prev, current) {
-    return prev - current.preco;
-  }, saldo);
+  const Saldo = arr.reduce((prev, current) => prev - current.preco, saldo);
+  return Saldo;
 }
 
 console.log(saldo(200, lista));

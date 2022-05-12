@@ -1,7 +1,5 @@
 function somaNums(arr) {
-  const Soma = arr.reduce(function (prev, current) {
-    return prev + current;
-  });
+  const Soma = arr.reduce((prev, current) => prev + current);
   return Soma;
 }
 
